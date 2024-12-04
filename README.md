@@ -1,4 +1,4 @@
-![ekranEntity](https://github.com/user-attachments/assets/7e66f07e-d605-414f-b2d3-3d2c6827e316)
+![EntityEkran](https://github.com/user-attachments/assets/c1669a88-e530-42d2-9bb1-243acce48a13)
 
 
 Hocam merhaba
